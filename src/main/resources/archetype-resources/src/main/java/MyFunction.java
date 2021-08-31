@@ -1,4 +1,4 @@
-package edu.wsu;
+package ${package};;
 
 import com.google.cloud.functions.HttpFunction;
 import com.google.cloud.functions.HttpRequest;

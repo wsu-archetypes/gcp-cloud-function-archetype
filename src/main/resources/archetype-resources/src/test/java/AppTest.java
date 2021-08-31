@@ -1,4 +1,4 @@
-package edu.wsu;
+package ${package};
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
